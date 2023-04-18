@@ -6,7 +6,7 @@
      Skilled ELearning Landing Page based on frontend mentor design..
     <br />
     <br />
-    <a href="https://product-preview-tobr.vercel.app/">View a project demo</a>
+    <a href="https://skilled-landing-page.vercel.app/">View a project demo</a>
   </p>
 
 ![My Image](assets/preview.jpg)
@@ -15,7 +15,7 @@
 
 ## LIGTHOUSE STATISTICS
 
-![My Image](assets/images/lighthouse.png)
+![My Image](assets/lighthouse.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
