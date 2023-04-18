@@ -137,6 +137,17 @@ body {
   top: -2rem;
 }
 
+.footer {
+  background-color: var(--color-primary-400);
+  padding: var(--fs-600) 0;
+}
+
+.footer__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .link:link,
 .link:visited {
   display: inline-block;
@@ -164,6 +175,14 @@ body {
   background-image: linear-gradient(
     var(--color-gradient-400),
     var(--color-gradient-300)
+  );
+}
+
+.link--secondary-gradient:link,
+.link--secondary-gradient:visited {
+  background-image: linear-gradient(
+    var(--color-gradient-200),
+    var(--color-gradient-100)
   );
 }
 
