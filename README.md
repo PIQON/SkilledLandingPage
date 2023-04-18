@@ -1,15 +1,15 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">NFT Card</h3>
+  <h3 align="center">Skilled Elearning Landing Page</h3>
 
   <p align="center">
-     NFT Card based on frontend mentor design..
+     Skilled ELearning Landing Page based on frontend mentor design..
     <br />
     <br />
     <a href="https://product-preview-tobr.vercel.app/">View a project demo</a>
   </p>
 
-![My Image](assets/images/preview.png)
+![My Image](assets/preview.jpg)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ## About The Project
 
-NFT Equilibrium Card, hover on image to see a magic overlay!
+Skilled ELearning Landing Page..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
